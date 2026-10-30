@@ -1,0 +1,14 @@
+=== BENCHMARK MERGE SORT PARALELO ===
+Tamaño: 1000000 | Umbral: 10000
+
+[Warm-up] Ejecutando 2 corridas de calentamiento...
+[Warm-up] Listo.
+
+Secuencial: 89.20 ms (promedio de 5)
+
+Hilos	Tiempo(ms)	Speedup	Validez
+-----	----------	-------	-------
+1	90.40		0.99x	OK
+2	48.60		1.84x	OK
+4	31.00		2.88x	OK
+8	25.00		3.57x	OK

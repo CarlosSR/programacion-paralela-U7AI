@@ -3,5 +3,7 @@ out/
 bin/
 build/
 .idea/
+*.iml
 .DS_Store
 *.tar.gz
+figures/
