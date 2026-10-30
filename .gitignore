@@ -1,0 +1,7 @@
+*.class
+out/
+bin/
+build/
+.idea/
+.DS_Store
+*.tar.gz
