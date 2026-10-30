@@ -1,0 +1,4 @@
+machine,size,threshold,threads,time_ms,speedup,valid
+i7,100000,10000,12,2.6,3.15,True
+i7,300000,10000,12,8.0,3.53,True
+i7,1000000,10000,12,23.4,4.38,True
